@@ -1,0 +1,19 @@
+{
+  "name": "routing-routs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tufanrai/routing-rout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tufanrai/routing-rout/issues"
+  },
+  "homepage": "https://github.com/tufanrai/routing-rout#readme",
+  "description": ""
+}
